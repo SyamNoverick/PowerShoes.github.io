@@ -1,0 +1,18 @@
+#collection-nav {
+  background: linear-gradient(
+    127.64deg,
+    rgba(187, 52, 9, 0.83) 17%,
+    rgba(184, 132, 30, 0.91) 68.58%
+  );
+  height: 100vh;
+  padding-left: 3em;
+}
+
+.collection > div > p {
+  padding-top: 4em;
+}
+
+.collection > div + p {
+  padding-top: 0.625em;
+  width: 23em;
+}
